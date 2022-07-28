@@ -1,24 +1,5 @@
-# README
+# Friend List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First time trying rails and this is my first project. Rails is super fast and easy to use.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Creating CRUD and user session in no time. I am using scaffold for the CRUD and devise for the user management. Moreover, I learn about association in this project too. Pretty confused because I just type a few lines of codes and then all was setted up by the rails. Magnificent!
